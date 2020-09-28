@@ -7,7 +7,7 @@
         "guiName": "Colored Hp-bar 2",
         "cliName": "Colored Hp-bar 2"
     },
-    "servers": ["https://raw.githubusercontent.com/PsykoDev/Colored-Hp-bar-2/master"],
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Colored-Hp-bar-2/master/"],
     "supportUrl": "https://github.com/PsykoDev/Colored-Hp-bar-2/issues",
     "description": "Colored Hp-bar 2"
 }
